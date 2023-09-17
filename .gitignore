@@ -1,0 +1,26 @@
+# Node (Frontend)
+node_modules/
+npm-debug.log
+package-lock.json
+.build/
+
+# Python (Backend)
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+venv/
+*.env  # For environment variables
+
+# SQLite (Database)
+*.db
+*.db-journal
+
+# IDEs
+.vscode/
+*.swp  # Vim swap files
+
+# Operating Systems
+.DS_Store  # macOS
+Thumbs.db  # Windows
